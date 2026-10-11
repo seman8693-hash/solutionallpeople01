@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-QTnfLwEv.js";import{l as t,s as n}from"./index-DOR-Zpb6.js";var r=e(t(),1),i=n();function a({children:e,fallback:t=null}){let[n,a]=(0,r.useState)(!1);return(0,r.useEffect)(()=>a(!0),[]),n?(0,i.jsx)(i.Fragment,{children:e}):(0,i.jsx)(i.Fragment,{children:t})}export{a as t};
